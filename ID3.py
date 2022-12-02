@@ -1,3 +1,4 @@
+#Pour que le code fonctionne, importer le fichier "all_virg.csv"
 
 from traitlets.config.application import default
 from numpy.core.numerictypes import maximum_sctype
